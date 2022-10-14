@@ -937,3 +937,36 @@
       font-size: 2rem;
     }
   }
+
+ @media (max-width: 600px) {
+    #review .heading {
+      padding-top: 10rem;
+    }
+    #review .box-container .review-slider .box {
+      position: relative;
+      height: 40vh;
+    }
+    #review .box-container .review-slider .box .image {
+      position: absolute;
+      top: 0;
+      margin: 0;
+    }
+    #review .box-container .review-slider .box .image img {
+      border-radius: 5rem;
+    }
+    #review .box-container .review-slider .box .comment {
+      border-radius: 1rem;
+      text-align: center;
+      width: 35rem;
+    }
+    #review .box-container .review-slider .box .comment h3 {
+      text-align: center;
+      margin-top: -2rem;
+    }
+    #newsletter h1 {
+      font-size: 4rem;
+    }
+    #newsletter p {
+      font-size: 2rem;
+    }
+  }
