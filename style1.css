@@ -18,6 +18,11 @@
     overflow-x: hidden;
   }
   
+  .DarkMode{
+    background-color: #303030;
+    color: whitesmoke;
+  }
+
   #header {
     display: -webkit-box;
     display: -ms-flexbox;
