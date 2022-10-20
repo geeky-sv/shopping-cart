@@ -11,6 +11,8 @@ among the received responses.<br>
 ◆ Add the required item to the database, if unavailable.<br>
 ◆ Feature to maintain past orders & request a return.<br>
 ◆ Ratings available on different products. <br>
+◆ Add your favoutite items to the cart. <br>
+◆ Track the update of your delivery. <br>
 
 ➔ _Shopkeeper Side Features_ :
 
