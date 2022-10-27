@@ -35,6 +35,6 @@ delivery charges.<br>
 📌**Tech-Stack Implemented:**
 
 Front-End: HTML, CSS, JS<br>
-Frameworks : Bootstrap, React
+Frameworks : Bootstrap, React <br>
 Back-End: Django<br>
 Database: MySQL<br>
